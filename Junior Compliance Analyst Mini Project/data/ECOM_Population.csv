@@ -1,0 +1,201 @@
+Message_ID,Date_Time,Channel,Sender_Role,Recipient_Type,External,Attachment_Flag,Subject_or_Title,Body_Text
+MSG-0001,2026-02-19 04:20,Email,Ops,Vendor,Y,N,Next steps,Appreciate your help. Please keep all client data in the secure portal and avoid sharing sensitive details via email.
+MSG-0002,2026-02-13 18:06,Email,Ops,Internal,N,N,Proposal edits,Thanks for the update. Please upload the onboarding deck to the client vault and confirm receipt.
+MSG-0003,2026-02-17 03:35,Email,Sales,Internal,N,N,Follow-up materials,Following up on our last note. Please upload the policy update to the client vault and confirm receipt.
+MSG-0004,2026-01-27 02:25,Social,PM,Vendor,Y,Y,Disclosure review,Following up on our last note. Please keep all client data in the shared drive and avoid sharing sensitive details via email.
+MSG-0005,2026-01-25 16:33,Social,Analyst,Vendor,Y,N,Draft review,Past performance shows strong annualized results. For the initial review step. Let’s route this through compliance before sharing.
+MSG-0006,2026-01-24 00:41,Marketing Draft,Sales,Internal,N,Y,Proposal edits,Our track record reflects solid long-term returns. In preparation for by end of day. Flag this if you think we need disclosures.
+MSG-0007,2026-01-04 21:55,Social,PM,Internal,N,N,Portal access,Circling back. We’ll share the final version of the performance summary once compliance review is complete.
+MSG-0008,2026-01-16 15:36,Social,IR,Vendor,Y,Y,Template update,We received strong public endorsements. In preparation for by end of day. Please advise on next steps.
+MSG-0009,2026-01-17 06:32,Chat,PM,Internal,N,N,Disclosure review,Thanks for the update. We’ll share the final version of the due diligence packet once stakeholder sign-off is complete.
+MSG-0010,2026-01-11 10:21,Marketing Draft,Compliance,Prospect,Y,Y,Next steps,Appreciate your help. Please upload the onboarding deck to the shared drive and confirm receipt.
+MSG-0011,2026-02-20 17:15,Social,Ops,Internal,N,N,Template update,Appreciate your help. We’ll share the final version of the due diligence packet once initial review is complete.
+MSG-0012,2026-01-05 21:06,Marketing Draft,Analyst,Prospect,Y,Y,Service update,Quick follow-up. Let’s schedule a call to walk through the policy update and align on compliance review.
+MSG-0013,2026-01-30 18:19,Social,IR,Client,Y,N,Reporting question,Appreciate your help. Please keep all client data in the compliance repository and avoid sharing sensitive details via email.
+MSG-0014,2026-02-01 02:13,Marketing Draft,Analyst,Vendor,Y,Y,Portal access,Circling back. We’ll share the final version of the onboarding deck once stakeholder sign-off is complete.
+MSG-0015,2026-01-12 10:02,Social,Ops,Prospect,Y,N,Scheduling,Let’s not document this discussion. Following the meeting recap. Please confirm if this language is acceptable for external use.
+MSG-0016,2026-02-12 14:32,Social,PM,Vendor,Y,N,Proposal edits,Appreciate your help. We will circulate the workflow checklist after final approval.
+MSG-0017,2026-02-06 11:27,Social,Analyst,Client,Y,N,Reporting question,Thanks for the update. Please review disclosures on the workflow checklist before close of business.
+MSG-0018,2026-01-21 09:22,Marketing Draft,PM,Internal,N,Y,Follow-up materials,A client testimonial highlights our five-star service. For the formatting pass step. Let’s route this through compliance before sharing.
+MSG-0019,2026-01-15 08:41,Chat,Sales,Internal,N,N,Reporting question,"Thanks for the update. If anything looks off in the workflow checklist, please flag it for final approval."
+MSG-0020,2026-02-15 14:03,Email,Compliance,Client,Y,N,Workflow reminder,Thanks for the update. Let’s schedule a call to walk through the policy update and align on initial review.
+MSG-0021,2026-01-10 05:28,Social,Sales,Vendor,Y,N,Template update,"Quick follow-up. If anything looks off in the marketing one-pager, please flag it for initial review."
+MSG-0022,2026-02-10 11:09,Marketing Draft,Sales,Client,Y,Y,Document request,Historical data demonstrates consistent growth. Regarding the due diligence packet. Please advise on next steps.
+MSG-0023,2026-02-17 09:42,Marketing Draft,Compliance,Vendor,Y,Y,Compliance check,Following up on our last note. Please keep all client data in the client vault and avoid sharing sensitive details via email.
+MSG-0024,2026-01-23 10:04,Social,Compliance,Client,Y,N,Disclosure review,Appreciate your help. We’ll share the final version of the client presentation once compliance review is complete.
+MSG-0025,2026-02-07 02:38,Chat,PM,Internal,N,N,Disclosure review,Following up on our last note. We’ll share the final version of the due diligence packet once final approval is complete.
+MSG-0026,2026-01-06 06:03,Email,Ops,Vendor,Y,N,Follow-up materials,Following up on our last note. We will circulate the policy update after legal review.
+MSG-0027,2026-02-24 03:07,Chat,Analyst,Internal,N,N,Data follow-up,They’ll pay a referral fee for introductions. As discussed earlier today. Please advise on next steps.
+MSG-0028,2026-02-02 12:51,Social,PM,Prospect,Y,N,Disclosure review,Let’s move this to Signal for quick updates. As discussed earlier today. Please advise on next steps.
+MSG-0029,2026-01-20 22:55,Marketing Draft,PM,Internal,N,Y,Compliance check,Appreciate your help. We’ll share the final version of the onboarding deck once compliance review is complete.
+MSG-0030,2026-01-29 05:39,Marketing Draft,Ops,Vendor,Y,Y,Meeting recap,We consistently outperform competitors in this space. Regarding the policy update. Let’s route this through compliance before sharing.
+MSG-0031,2026-01-02 00:19,Chat,Compliance,Internal,N,N,Reporting question,Following up on our last note. Please upload the onboarding deck to the shared drive and confirm receipt.
+MSG-0032,2026-02-03 05:00,Chat,Compliance,Internal,N,N,Next steps,Quick follow-up. Let’s schedule a call to walk through the client presentation and align on final approval.
+MSG-0033,2026-02-25 20:57,Marketing Draft,Sales,Prospect,Y,Y,Portal access,Following up on our last note. We’ll share the final version of the policy update once second review is complete.
+MSG-0034,2026-02-04 21:12,Marketing Draft,PM,Prospect,Y,Y,Portal access,Following up on our last note. Reminder to use approved channels and retain communications related to the policy update.
+MSG-0035,2026-01-18 02:05,Chat,Compliance,Internal,N,N,Template update,We were invited to a sponsored dinner event. As discussed earlier today. This should stay internal until approved.
+MSG-0036,2026-01-12 07:49,Chat,Compliance,Internal,N,N,Scheduling,Historical data demonstrates consistent growth. Following the meeting recap. Please advise on next steps.
+MSG-0037,2026-02-26 01:45,Marketing Draft,PM,Internal,N,Y,Draft review,Following up on our last note. Please upload the due diligence packet to the shared drive and confirm receipt.
+MSG-0038,2026-01-26 12:15,Social,Ops,Internal,N,N,Reporting question,Thanks for the update. We’ll share the final version of the marketing one-pager once final approval is complete.
+MSG-0039,2026-01-19 13:03,Email,PM,Internal,N,N,Draft review,Sharing routing number details—please move this to the secure portal. Before we share via the compliance repository. Can you review this before it goes out?
+MSG-0040,2026-02-21 05:59,Marketing Draft,PM,Client,Y,Y,Document request,Thanks for the update. Reminder to use approved channels and retain communications related to the client presentation.
+MSG-0041,2026-01-22 20:40,Chat,PM,Internal,N,Y,Client update,Circling back. Let’s schedule a call to walk through the marketing one-pager and align on compliance review.
+MSG-0042,2026-02-02 08:39,Email,Compliance,Internal,N,N,Portal access,Following up on our last note. Please verify the figures on the meeting agenda by tomorrow morning.
+MSG-0043,2026-02-10 16:03,Marketing Draft,Compliance,Internal,N,Y,Scheduling,Appreciate your help. Please verify the figures on the marketing one-pager before tomorrow’s call.
+MSG-0044,2026-01-06 13:22,Marketing Draft,Compliance,Vendor,Y,Y,Disclosure review,This strategy is guaranteed to deliver strong returns. Following the meeting recap. Flag this if you think we need disclosures.
+MSG-0045,2026-01-01 14:53,Email,PM,Internal,N,N,Portal access,Circling back. We will circulate the marketing one-pager after compliance review.
+MSG-0046,2026-02-01 17:04,Email,Ops,Client,Y,Y,Template update,Circling back. We will circulate the proposal draft after compliance review.
+MSG-0047,2026-02-07 11:23,Social,Sales,Prospect,Y,N,Compliance check,We discussed a commission split for referrals. As discussed earlier today. Let’s discuss on the call.
+MSG-0048,2026-01-26 17:29,Chat,IR,Internal,N,N,Data follow-up,I got a non-public tip about their earnings. Before we share via the secure portal. Flag this if you think we need disclosures.
+MSG-0049,2026-01-07 18:16,Chat,Analyst,Internal,N,Y,Service update,Following up on our last note. Please approve the edits on the quarterly report ahead of the meeting.
+MSG-0050,2026-02-18 05:17,Marketing Draft,Ops,Client,Y,Y,Document request,Our approach is essentially risk-free for investors. For the final approval step. Please advise on next steps.
+MSG-0051,2026-01-30 03:17,Marketing Draft,Compliance,Prospect,Y,Y,Reporting question,I got a non-public tip about their earnings. Before we share via the secure portal. Let’s discuss on the call.
+MSG-0052,2026-01-02 11:25,Social,IR,Internal,N,N,Scheduling,Circling back. We’ll share the final version of the proposal draft once second review is complete.
+MSG-0053,2026-02-01 06:59,Marketing Draft,Compliance,Vendor,Y,Y,Data follow-up,"Following up on our last note. If anything looks off in the quarterly report, please flag it for second review."
+MSG-0054,2026-02-10 20:38,Email,Ops,Prospect,Y,N,Portal access,Circling back. Please keep all client data in the compliance repository and avoid sharing sensitive details via email.
+MSG-0055,2026-01-20 06:30,Chat,PM,Internal,N,N,Scheduling,Thanks for the update. Please send feedback on the meeting agenda by tomorrow morning.
+MSG-0056,2026-01-14 16:04,Chat,IR,Internal,N,N,Service update,Quick follow-up. We’ll share the final version of the workflow checklist once legal review is complete.
+MSG-0057,2026-02-02 05:23,Email,Sales,Internal,N,Y,Document request,Thanks for the update. Please verify the figures on the performance summary ahead of the meeting.
+MSG-0058,2026-01-07 11:39,Social,IR,Prospect,Y,N,Draft review,Following up on our last note. Please keep all client data in the compliance repository and avoid sharing sensitive details via email.
+MSG-0059,2026-02-08 10:46,Chat,Sales,Internal,N,N,Follow-up materials,Appreciate your help. We will circulate the onboarding deck after stakeholder sign-off.
+MSG-0060,2026-01-26 15:26,Email,PM,Vendor,Y,N,Compliance check,Circling back. We will circulate the due diligence packet after final approval.
+MSG-0061,2026-01-19 04:26,Marketing Draft,Compliance,Client,Y,Y,Next steps,"Circling back. If anything looks off in the onboarding deck, please flag it for compliance review."
+MSG-0062,2026-02-22 23:29,Email,IR,Client,Y,N,Reporting question,You cannot lose money using this model. In preparation for by end of day. Flag this if you think we need disclosures.
+MSG-0063,2026-01-19 14:51,Marketing Draft,Analyst,Prospect,Y,Y,Service update,Not public yet—treat as confidential. In preparation for before tomorrow’s call. Can you review this before it goes out?
+MSG-0064,2026-02-20 09:45,Marketing Draft,Sales,Internal,N,Y,Document request,Our performance beats the market year after year. Regarding the policy update. Please confirm if this language is acceptable for external use.
+MSG-0065,2026-01-06 15:07,Email,IR,Vendor,Y,N,Proposal edits,Thanks for the update. Please flag any issues on the onboarding deck this afternoon.
+MSG-0066,2026-02-11 22:12,Marketing Draft,Ops,Client,Y,Y,Workflow reminder,Circling back. Please keep all client data in the client vault and avoid sharing sensitive details via email.
+MSG-0067,2026-01-10 04:36,Marketing Draft,Analyst,Vendor,Y,Y,Data follow-up,"Appreciate your help. If anything looks off in the client presentation, please flag it for stakeholder sign-off."
+MSG-0068,2026-02-20 17:04,Chat,PM,Internal,N,N,Meeting recap,Circling back. Please keep all client data in the secure portal and avoid sharing sensitive details via email.
+MSG-0069,2026-02-08 10:16,Chat,Ops,Internal,N,N,Meeting recap,Sharing routing number details—please move this to the secure portal. As discussed earlier today. Let’s route this through compliance before sharing.
+MSG-0070,2026-01-16 15:23,Chat,IR,Internal,N,Y,Client update,Following up on our last note. We’ll share the final version of the quarterly report once compliance review is complete.
+MSG-0071,2026-02-26 21:27,Marketing Draft,IR,Client,Y,Y,Draft review,Thanks for the update. Reminder to use approved channels and retain communications related to the workflow checklist.
+MSG-0072,2026-02-09 13:43,Chat,Compliance,Internal,N,N,Client update,Circling back. Let’s schedule a call to walk through the marketing one-pager and align on legal review.
+MSG-0073,2026-02-20 15:37,Email,Ops,Client,Y,N,Meeting recap,They offered tickets and hotel access for the conference. Before we share via the shared drive. This should stay internal until approved.
+MSG-0074,2026-01-08 13:37,Marketing Draft,Compliance,Vendor,Y,Y,Disclosure review,Use my Yahoo address for the document. In preparation for before close of business. Let’s route this through compliance before sharing.
+MSG-0075,2026-02-10 00:48,Email,PM,Prospect,Y,N,Data follow-up,Following up on our last note. We’ll share the final version of the meeting agenda once legal review is complete.
+MSG-0076,2026-02-21 09:02,Chat,PM,Internal,N,N,Disclosure review,Appreciate your help. We will circulate the performance summary after second review.
+MSG-0077,2026-01-20 21:14,Email,Sales,Prospect,Y,N,Next steps,This is under NDA until the announcement. In preparation for ahead of the meeting. Please advise on next steps.
+MSG-0078,2026-02-07 21:47,Marketing Draft,IR,Prospect,Y,Y,Draft review,Thanks for the update. We’ll share the final version of the policy update once formatting pass is complete.
+MSG-0079,2026-01-18 16:35,Email,Ops,Client,Y,Y,Service update,"Appreciate your help. If anything looks off in the onboarding deck, please flag it for stakeholder sign-off."
+MSG-0080,2026-02-22 06:46,Social,IR,Prospect,Y,N,Template update,Appreciate your help. We will circulate the due diligence packet after stakeholder sign-off.
+MSG-0081,2026-01-06 18:13,Email,Sales,Internal,N,N,Disclosure review,Appreciate your help. Please upload the proposal draft to the secure portal and confirm receipt.
+MSG-0082,2026-01-05 15:43,Email,Ops,Internal,N,N,Disclosure review,They’ll pay a referral fee for introductions. Regarding the policy update. Can you review this before it goes out?
+MSG-0083,2026-01-23 00:32,Social,IR,Internal,N,N,Document request,I got a non-public tip about their earnings. As discussed earlier today. Let’s discuss on the call.
+MSG-0084,2026-01-01 11:16,Email,Analyst,Client,Y,N,Data follow-up,They’ll pay a referral fee for introductions. In preparation for by end of day. Can you review this before it goes out?
+MSG-0085,2026-02-09 14:39,Social,Sales,Prospect,Y,N,Portal access,Thanks for the update. Let’s schedule a call to walk through the performance summary and align on legal review.
+MSG-0086,2026-01-16 05:46,Chat,IR,Internal,N,N,Compliance check,Quick follow-up. Please approve the edits on the performance summary by end of day.
+MSG-0087,2026-01-31 06:37,Email,Ops,Client,Y,N,Draft review,Thanks for the update. Please keep all client data in the shared drive and avoid sharing sensitive details via email.
+MSG-0088,2026-01-27 14:59,Email,Compliance,Prospect,Y,N,Next steps,Appreciate your help. Please upload the onboarding deck to the approved folder and confirm receipt.
+MSG-0089,2026-01-31 16:47,Marketing Draft,Analyst,Internal,N,Y,Proposal edits,Circling back. We’ll share the final version of the policy update once final approval is complete.
+MSG-0090,2026-02-14 18:16,Chat,Compliance,Internal,N,N,Follow-up materials,Sharing routing number details—please move this to the secure portal. Before we share via the client vault. Can you review this before it goes out?
+MSG-0091,2026-01-22 11:28,Marketing Draft,Sales,Prospect,Y,Y,Portal access,Appreciate your help. We’ll share the final version of the quarterly report once second review is complete.
+MSG-0092,2026-02-07 03:13,Social,IR,Prospect,Y,N,Meeting recap,Circling back. Please review disclosures on the quarterly report by end of day.
+MSG-0093,2026-01-30 10:34,Chat,Compliance,Internal,N,Y,Reporting question,Thanks for the update. Please verify the figures on the onboarding deck ahead of the meeting.
+MSG-0094,2026-02-28 01:39,Social,IR,Prospect,Y,Y,Document request,Thanks for the update. We will circulate the workflow checklist after initial review.
+MSG-0095,2026-01-23 04:12,Chat,PM,Internal,N,N,Follow-up materials,Appreciate your help. We will circulate the client presentation after second review.
+MSG-0096,2026-02-24 08:00,Social,Analyst,Client,Y,N,Client update,Appreciate your help. Please upload the proposal draft to the compliance repository and confirm receipt.
+MSG-0097,2026-01-21 11:58,Social,Ops,Prospect,Y,N,Next steps,Following up on our last note. Please review disclosures on the meeting agenda by end of day.
+MSG-0098,2026-02-17 22:33,Chat,Ops,Internal,N,N,Draft review,Quick follow-up. Please upload the workflow checklist to the approved folder and confirm receipt.
+MSG-0099,2026-01-05 13:36,Email,Analyst,Internal,N,Y,Client update,Thanks for the update. Please upload the meeting agenda to the approved folder and confirm receipt.
+MSG-0100,2026-02-04 05:52,Email,IR,Client,Y,Y,Next steps,We consistently outperform competitors in this space. In preparation for ahead of the meeting. Can you review this before it goes out?
+MSG-0101,2026-01-20 23:44,Chat,Sales,Internal,N,N,Client update,This might be material nonpublic information. As discussed earlier today. Flag this if you think we need disclosures.
+MSG-0102,2026-01-20 09:39,Email,Ops,Client,Y,N,Next steps,Appreciate your help. Please flag any issues on the quarterly report before close of business.
+MSG-0103,2026-01-17 20:35,Marketing Draft,IR,Client,Y,Y,Scheduling,Following up on our last note. We’ll share the final version of the quarterly report once initial review is complete.
+MSG-0104,2026-01-03 07:36,Marketing Draft,Sales,Client,Y,Y,Follow-up materials,"Appreciate your help. If anything looks off in the marketing one-pager, please flag it for compliance review."
+MSG-0105,2026-02-07 08:57,Email,PM,Prospect,Y,N,Next steps,Quick follow-up. Please keep all client data in the approved folder and avoid sharing sensitive details via email.
+MSG-0106,2026-02-24 12:53,Social,Compliance,Vendor,Y,N,Follow-up materials,You cannot lose money using this model. Regarding the client presentation. Let’s discuss on the call.
+MSG-0107,2026-02-25 07:01,Social,Compliance,Prospect,Y,N,Service update,They offered tickets and hotel access for the conference. Before we share via the shared drive. Flag this if you think we need disclosures.
+MSG-0108,2026-01-30 19:30,Social,Sales,Vendor,Y,Y,Service update,"Thanks for the update. If anything looks off in the quarterly report, please flag it for second review."
+MSG-0109,2026-01-05 09:11,Chat,IR,Internal,N,N,Workflow reminder,Quick follow-up. Reminder to use approved channels and retain communications related to the proposal draft.
+MSG-0110,2026-02-01 12:40,Email,Ops,Vendor,Y,Y,Compliance check,Following up on our last note. Reminder to use approved channels and retain communications related to the onboarding deck.
+MSG-0111,2026-02-02 20:36,Marketing Draft,Compliance,Client,Y,Y,Next steps,Appreciate your help. We will circulate the policy update after formatting pass.
+MSG-0112,2026-02-18 06:50,Marketing Draft,PM,Prospect,Y,Y,Document request,Thanks for the update. We’ll share the final version of the quarterly report once compliance review is complete.
+MSG-0113,2026-02-22 08:36,Marketing Draft,IR,Vendor,Y,Y,Disclosure review,We were invited to a sponsored dinner event. For the stakeholder sign-off step. This should stay internal until approved.
+MSG-0114,2026-01-07 20:03,Social,PM,Vendor,Y,N,Template update,Please forward to my personal email. Following the meeting recap. Can you review this before it goes out?
+MSG-0115,2026-02-19 20:37,Marketing Draft,IR,Client,Y,Y,Draft review,Appreciate your help. Please flag any issues on the client presentation by tomorrow morning.
+MSG-0116,2026-02-06 21:42,Social,Compliance,Internal,N,N,Service update,Historical data demonstrates consistent growth. Regarding the onboarding deck. Flag this if you think we need disclosures.
+MSG-0117,2026-02-23 16:50,Email,Compliance,Prospect,Y,N,Follow-up materials,"Following up on our last note. If anything looks off in the quarterly report, please flag it for legal review."
+MSG-0118,2026-01-28 21:44,Email,PM,Prospect,Y,N,Workflow reminder,Circling back. Please share your comments on the quarterly report before close of business.
+MSG-0119,2026-01-07 21:52,Social,Sales,Internal,N,Y,Document request,Circling back. Let’s schedule a call to walk through the policy update and align on initial review.
+MSG-0120,2026-01-08 08:02,Social,Analyst,Vendor,Y,N,Service update,Someone shared inside information about the deal. For the initial review step. Let’s route this through compliance before sharing.
+MSG-0121,2026-02-21 06:30,Social,Sales,Internal,N,Y,Compliance check,Following up on our last note. Please verify the figures on the workflow checklist ahead of the meeting.
+MSG-0122,2026-01-11 05:26,Marketing Draft,PM,Prospect,Y,Y,Next steps,This is our top-performing strategy. As discussed earlier today. Let’s discuss on the call.
+MSG-0123,2026-02-21 02:14,Social,Ops,Internal,N,Y,Workflow reminder,Following up on our last note. Reminder to use approved channels and retain communications related to the marketing one-pager.
+MSG-0124,2026-02-15 08:06,Marketing Draft,IR,Vendor,Y,Y,Document request,Send this to my Gmail account for review. Before we share via the secure portal. Please advise on next steps.
+MSG-0125,2026-02-23 13:47,Marketing Draft,Sales,Client,Y,Y,Service update,Thanks for the update. Please upload the workflow checklist to the client vault and confirm receipt.
+MSG-0126,2026-02-07 00:55,Chat,Ops,Internal,N,Y,Follow-up materials,Following up on our last note. Reminder to use approved channels and retain communications related to the proposal draft.
+MSG-0127,2026-02-09 09:49,Marketing Draft,Compliance,Client,Y,Y,Next steps,They offered tickets and hotel access for the conference. Regarding the quarterly report. Let’s discuss on the call.
+MSG-0128,2026-02-26 22:22,Chat,Analyst,Internal,N,N,Next steps,Following up on our last note. Please upload the marketing one-pager to the secure portal and confirm receipt.
+MSG-0129,2026-01-21 21:53,Email,Sales,Prospect,Y,N,Portal access,Quick follow-up. Please verify the figures on the marketing one-pager before close of business.
+MSG-0130,2026-01-29 03:19,Email,PM,Vendor,Y,N,Compliance check,Following up on our last note. We will circulate the onboarding deck after legal review.
+MSG-0131,2026-02-03 13:16,Chat,Compliance,Internal,N,N,Meeting recap,Circling back. We will circulate the onboarding deck after second review.
+MSG-0132,2026-01-24 06:28,Chat,PM,Internal,N,N,Reporting question,"Thanks for the update. If anything looks off in the proposal draft, please flag it for copyediting."
+MSG-0133,2026-01-02 22:11,Email,Sales,Prospect,Y,Y,Client update,Quick follow-up. Please upload the onboarding deck to the compliance repository and confirm receipt.
+MSG-0134,2026-01-07 04:59,Email,Analyst,Internal,N,N,Scheduling,Following up on our last note. Please upload the proposal draft to the approved folder and confirm receipt.
+MSG-0135,2026-01-08 21:46,Marketing Draft,Sales,Vendor,Y,Y,Next steps,Circling back. Let’s schedule a call to walk through the policy update and align on legal review.
+MSG-0136,2026-01-11 16:39,Marketing Draft,IR,Client,Y,Y,Compliance check,Our approach is essentially risk-free for investors. Before we share via the client vault. Please confirm if this language is acceptable for external use.
+MSG-0137,2026-02-23 08:38,Social,Sales,Internal,N,N,Workflow reminder,Quick follow-up. Reminder to use approved channels and retain communications related to the marketing one-pager.
+MSG-0138,2026-01-30 02:18,Marketing Draft,IR,Internal,N,Y,Service update,Following up on our last note. We will circulate the meeting agenda after initial review.
+MSG-0139,2026-01-30 03:12,Social,Sales,Prospect,Y,Y,Draft review,This might be material nonpublic information. Before we share via the secure portal. This should stay internal until approved.
+MSG-0140,2026-02-01 22:48,Email,Sales,Client,Y,Y,Meeting recap,Thanks for the update. Reminder to use approved channels and retain communications related to the marketing one-pager.
+MSG-0141,2026-02-27 12:45,Email,Sales,Prospect,Y,N,Document request,Don’t put this in email—call me. For the second review step. This should stay internal until approved.
+MSG-0142,2026-02-16 15:15,Email,Sales,Internal,N,N,Workflow reminder,They offered tickets and hotel access for the conference. Before we share via the secure portal. Let’s route this through compliance before sharing.
+MSG-0143,2026-01-25 04:38,Social,PM,Internal,N,N,Scheduling,Appreciate your help. Let’s schedule a call to walk through the quarterly report and align on initial review.
+MSG-0144,2026-02-24 11:11,Social,PM,Vendor,Y,N,Document request,Following up on our last note. We will circulate the meeting agenda after copyediting.
+MSG-0145,2026-01-26 06:00,Email,Ops,Internal,N,Y,Compliance check,This might be material nonpublic information. For the legal review step. Please confirm if this language is acceptable for external use.
+MSG-0146,2026-01-10 05:08,Marketing Draft,Analyst,Prospect,Y,Y,Data follow-up,Appreciate your help. Please upload the client presentation to the secure portal and confirm receipt.
+MSG-0147,2026-01-27 22:05,Chat,IR,Internal,N,Y,Draft review,Quick follow-up. Let’s schedule a call to walk through the policy update and align on final approval.
+MSG-0148,2026-02-05 13:05,Chat,Analyst,Internal,N,Y,Follow-up materials,Quick follow-up. We will circulate the marketing one-pager after initial review.
+MSG-0149,2026-01-22 05:15,Chat,Analyst,Internal,N,N,Draft review,Circling back. We’ll share the final version of the client presentation once initial review is complete.
+MSG-0150,2026-02-24 18:15,Social,Ops,Vendor,Y,N,Service update,"Thanks for the update. If anything looks off in the due diligence packet, please flag it for formatting pass."
+MSG-0151,2026-01-26 13:43,Chat,Ops,Internal,N,N,Next steps,Following up on our last note. Please upload the quarterly report to the client vault and confirm receipt.
+MSG-0152,2026-02-11 20:10,Email,Compliance,Internal,N,N,Reporting question,Circling back. Please upload the performance summary to the client vault and confirm receipt.
+MSG-0153,2026-02-03 06:56,Social,Analyst,Prospect,Y,N,Reporting question,This is our top-performing strategy. Regarding the onboarding deck. Let’s discuss on the call.
+MSG-0154,2026-01-08 08:23,Marketing Draft,IR,Internal,N,Y,Document request,Circling back. Let’s schedule a call to walk through the quarterly report and align on final approval.
+MSG-0155,2026-01-31 15:48,Chat,Sales,Internal,N,Y,Disclosure review,Appreciate your help. Please upload the policy update to the shared drive and confirm receipt.
+MSG-0156,2026-01-02 14:48,Marketing Draft,Ops,Internal,N,Y,Scheduling,Quick follow-up. We will circulate the quarterly report after copyediting.
+MSG-0157,2026-02-05 08:18,Social,Compliance,Client,Y,N,Template update,Quick follow-up. Please upload the performance summary to the approved folder and confirm receipt.
+MSG-0158,2026-01-06 12:48,Email,PM,Vendor,Y,N,Workflow reminder,Thanks for the update. We’ll share the final version of the performance summary once compliance review is complete.
+MSG-0159,2026-02-02 21:51,Chat,Analyst,Internal,N,N,Disclosure review,Use my Yahoo address for the document. In preparation for by end of day. Can you review this before it goes out?
+MSG-0160,2026-02-07 16:07,Email,Sales,Prospect,Y,N,Proposal edits,Thanks for the update. We will circulate the quarterly report after formatting pass.
+MSG-0161,2026-01-31 09:56,Social,Compliance,Internal,N,N,Client update,This might be material nonpublic information. For the copyediting step. Can you review this before it goes out?
+MSG-0162,2026-01-24 09:37,Social,Compliance,Vendor,Y,Y,Next steps,"Thanks for the update. If anything looks off in the client presentation, please flag it for second review."
+MSG-0163,2026-02-27 06:23,Social,Ops,Prospect,Y,N,Client update,Following up on our last note. Let’s schedule a call to walk through the marketing one-pager and align on compliance review.
+MSG-0164,2026-02-08 15:10,Social,PM,Prospect,Y,N,Draft review,"Thanks for the update. If anything looks off in the policy update, please flag it for stakeholder sign-off."
+MSG-0165,2026-02-18 10:16,Chat,Ops,Internal,N,N,Next steps,Circling back. We will circulate the workflow checklist after compliance review.
+MSG-0166,2026-01-09 17:50,Social,Sales,Prospect,Y,N,Reporting question,Send this to my Gmail account for review. Before we share via the approved folder. Can you review this before it goes out?
+MSG-0167,2026-01-02 20:52,Marketing Draft,Ops,Client,Y,Y,Template update,Quick follow-up. Reminder to use approved channels and retain communications related to the client presentation.
+MSG-0168,2026-02-13 05:18,Social,PM,Client,Y,N,Client update,You cannot lose money using this model. Before we share via the shared drive. Let’s route this through compliance before sharing.
+MSG-0169,2026-01-12 19:38,Social,IR,Internal,N,N,Template update,Appreciate your help. We will circulate the meeting agenda after final approval.
+MSG-0170,2026-02-02 10:12,Chat,Compliance,Internal,N,N,Scheduling,Recent reviews rate us very highly. For the second review step. This should stay internal until approved.
+MSG-0171,2026-02-01 10:19,Marketing Draft,Ops,Client,Y,Y,Data follow-up,They offered tickets and hotel access for the conference. As discussed earlier today. Let’s discuss on the call.
+MSG-0172,2026-02-20 02:23,Email,PM,Prospect,Y,N,Document request,Thanks for the update. Reminder to use approved channels and retain communications related to the performance summary.
+MSG-0173,2026-02-15 15:31,Chat,Ops,Internal,N,Y,Scheduling,Thanks for the update. Please approve the edits on the marketing one-pager by tomorrow morning.
+MSG-0174,2026-02-22 18:49,Chat,Analyst,Internal,N,Y,Draft review,Quick follow-up. Let’s schedule a call to walk through the workflow checklist and align on initial review.
+MSG-0175,2026-01-28 16:51,Marketing Draft,Ops,Client,Y,Y,Portal access,Thanks for the update. Please keep all client data in the compliance repository and avoid sharing sensitive details via email.
+MSG-0176,2026-01-28 13:29,Social,PM,Client,Y,N,Service update,"Thanks for the update. If anything looks off in the quarterly report, please flag it for compliance review."
+MSG-0177,2026-01-29 18:09,Marketing Draft,Compliance,Internal,N,Y,Service update,Thanks for the update. Please keep all client data in the approved folder and avoid sharing sensitive details via email.
+MSG-0178,2026-01-15 04:01,Chat,Compliance,Internal,N,N,Workflow reminder,Following up on our last note. We’ll share the final version of the due diligence packet once stakeholder sign-off is complete.
+MSG-0179,2026-02-07 09:25,Chat,Sales,Internal,N,N,Proposal edits,Circling back. Let’s schedule a call to walk through the proposal draft and align on formatting pass.
+MSG-0180,2026-02-13 17:30,Marketing Draft,IR,Client,Y,Y,Meeting recap,Circling back. Please upload the workflow checklist to the client vault and confirm receipt.
+MSG-0181,2026-01-04 19:30,Marketing Draft,PM,Vendor,Y,Y,Data follow-up,Don’t put this in email—call me. Following the meeting recap. Please advise on next steps.
+MSG-0182,2026-01-07 14:12,Email,IR,Vendor,Y,N,Document request,Thanks for the update. Please upload the proposal draft to the secure portal and confirm receipt.
+MSG-0183,2026-01-06 21:19,Email,PM,Vendor,Y,N,Follow-up materials,Quick follow-up. Please approve the edits on the workflow checklist before close of business.
+MSG-0184,2026-02-25 10:15,Marketing Draft,Analyst,Vendor,Y,Y,Client update,Our track record reflects solid long-term returns. Following the meeting recap. Let’s route this through compliance before sharing.
+MSG-0185,2026-01-21 03:56,Marketing Draft,Compliance,Prospect,Y,Y,Proposal edits,Someone shared inside information about the deal. As discussed earlier today. Let’s route this through compliance before sharing.
+MSG-0186,2026-02-16 04:31,Marketing Draft,Sales,Prospect,Y,Y,Workflow reminder,Appreciate your help. We’ll share the final version of the quarterly report once copyediting is complete.
+MSG-0187,2026-02-13 21:44,Chat,Analyst,Internal,N,N,Service update,A possible finder’s fee was mentioned. Regarding the meeting agenda. Flag this if you think we need disclosures.
+MSG-0188,2026-01-10 17:21,Social,PM,Client,Y,N,Reporting question,Circling back. We will circulate the marketing one-pager after final approval.
+MSG-0189,2026-01-27 09:03,Chat,Analyst,Internal,N,N,Document request,Appreciate your help. Please upload the meeting agenda to the approved folder and confirm receipt.
+MSG-0190,2026-02-18 04:51,Chat,Ops,Internal,N,N,Client update,Following up on our last note. Let’s schedule a call to walk through the meeting agenda and align on stakeholder sign-off.
+MSG-0191,2026-01-28 06:34,Chat,PM,Internal,N,Y,Scheduling,Appreciate your help. We’ll share the final version of the performance summary once compliance review is complete.
+MSG-0192,2026-01-09 23:46,Marketing Draft,IR,Vendor,Y,Y,Reporting question,Appreciate your help. Let’s schedule a call to walk through the marketing one-pager and align on compliance review.
+MSG-0193,2026-01-30 00:40,Social,Analyst,Prospect,Y,Y,Service update,Quick follow-up. Please approve the edits on the policy update by tomorrow morning.
+MSG-0194,2026-02-15 05:50,Marketing Draft,Ops,Client,Y,Y,Workflow reminder,Following up on our last note. Please verify the figures on the due diligence packet before tomorrow’s call.
+MSG-0195,2026-01-29 06:53,Marketing Draft,Sales,Client,Y,Y,Data follow-up,Attached is a passport scan—please use the secure upload next time. Before we share via the secure portal. Please confirm if this language is acceptable for external use.
+MSG-0196,2026-02-04 13:41,Chat,Compliance,Internal,N,N,Portal access,Send this to my Gmail account for review. Regarding the meeting agenda. Let’s discuss on the call.
+MSG-0197,2026-01-27 11:54,Marketing Draft,Ops,Client,Y,Y,Follow-up materials,Someone shared inside information about the deal. Regarding the workflow checklist. Please advise on next steps.
+MSG-0198,2026-01-07 10:30,Chat,IR,Internal,N,N,Follow-up materials,Circling back. We will circulate the due diligence packet after stakeholder sign-off.
+MSG-0199,2026-02-22 03:02,Email,PM,Client,Y,N,Client update,Following up on our last note. Please review disclosures on the quarterly report before close of business.
+MSG-0200,2026-02-18 13:44,Marketing Draft,Sales,Vendor,Y,Y,Service update,Quick follow-up. We will circulate the meeting agenda after copyediting.
