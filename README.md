@@ -18,8 +18,6 @@ Projects/
     └── shift_swap_project.sql
 ```
 
-## Projects
-
 ### USvsChinaGDP Growth Efficiency
 Comparative analysis of U.S. and China GDP growth efficiency using economic data. Explores growth output relative to inputs across time periods using Python/Jupyter.
 
