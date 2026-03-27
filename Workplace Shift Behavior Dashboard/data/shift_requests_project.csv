@@ -1,197 +1,262 @@
-﻿id,request_date,requester,swap_shift,cover_shift,took_shift
-1,2025-12-06,Cocomelon,0,1,0
-2,2025-12-06,Strawberry,0,1,0
-3,2025-12-06,Jelly Bong,0,1,0
-4,2025-12-06,Dung,0,1,0
-5,2025-12-07,Fed Powell,0,1,0
-6,2025-12-07,Gumseng Lamau,1,0,0
-7,2025-12-07,Patrick Star,0,1,0
-8,2025-12-08,Nuke,0,1,0
-9,2025-12-09,Emperor Kuzco,0,1,0
-10,2025-12-10,Kyle Muggle,0,1,0
-11,2025-12-12,Favorite Student,1,0,0
-12,2025-12-12,Shane Marty,1,0,0
-13,2025-12-12,Sherlock Holmes,0,1,0
-14,2025-12-13,Alicia Wonderland,0,1,0
-15,2025-12-15,Alicia Wonderland,1,0,0
-16,2025-12-15,Patrick Star,1,0,0
-17,2025-12-16,Cocomelon,0,1,0
-18,2025-12-16,Alicia Wonderland,1,0,0
-19,2025-12-16,Cocomelon,0,1,0
-20,2025-12-17,Will Stonks,1,0,0
-21,2025-12-18,Alicia Wonderland,0,1,0
-22,2025-12-19,Lex Luthor,0,1,0
-23,2025-12-20,Mike Mentzer,1,0,0
-24,2025-12-20,Lex Luthor,0,1,0
-25,2025-12-22,David Jackiechan,0,1,0
-26,2025-12-22,Mike Mentzer,1,0,0
-27,2025-12-22,Lex Luthor,1,0,0
-28,2025-12-23,Patrick Star,1,0,0
-29,2025-12-23,David Jackiechan,0,1,0
-30,2025-12-23,Amber Stone,0,0,1
-31,2025-12-24,Santa Claus,0,0,1
-32,2025-12-24,Cocomelon,0,1,0
-33,2025-12-26,Jelly Bong,1,0,0
-34,2025-12-27,Sherlock Holmes,0,1,0
-35,2025-12-27,Mountains,0,1,0
-36,2025-12-28,Alicia Wonderland,1,0,0
-37,2025-12-28,David Jackiechan,0,1,0
-38,2025-12-28,Jaime Oliveoil,0,0,1
-39,2025-12-29,David Jackiechan,0,1,0
-40,2025-12-29,K Unwise,0,0,1
-41,2025-12-29,Albrrrrr,0,1,0
-42,2025-12-29,Blake Lively,0,1,0
-43,2025-12-29,Larry Ellison,0,1,0
-44,2025-12-30,Jaime Oliveoil,0,0,1
-45,2025-12-30,Copenhagen,0,1,0
-46,2025-12-30,Larry Ellison,0,1,0
-47,2025-12-31,Cocomelon,0,1,0
-48,2025-12-31,Strawberry,0,1,0
-49,2025-12-31,Mountains,0,1,0
-50,2025-12-31,Kyle Muggle,0,1,0
-51,2026-01-02,Strawberry,0,1,0
-52,2026-01-02,Cocomelon,0,1,0
-53,2026-01-04,Fed Powell,0,1,0
-54,2026-01-04,David Jackiechan,0,1,0
-55,2026-01-04,Jaime Oliveoil,0,0,1
-56,2026-01-04,Blake Lively,0,1,0
-57,2026-01-05,Alicia Wonderland,1,0,0
-58,2026-01-05,David Jackiechan,1,0,0
-59,2026-01-05,Larry Ellison,1,0,0
-60,2026-01-05,Sam Lively,0,0,1
-61,2026-01-05,Patrick Star,1,0,0
-62,2026-01-06,Larry Ellison,1,0,0
-63,2026-01-06,Alicia Wonderland,1,0,0
-64,2026-01-07,Zuck Gibbs,0,1,0
-65,2026-01-07,Larry Ellison,1,0,0
-66,2026-01-08,Colt Sailormoon,0,1,0
-67,2026-01-08,Larry Ellison,1,0,0
-68,2026-01-08,K Unwise,0,0,1
-69,2026-01-08,Alicia Wonderland,1,0,0
-70,2026-01-09,Shane Marty,0,1,0
-71,2026-01-09,Larry Ellison,1,0,0
-72,2026-01-09,Kay Munich,1,0,0
-73,2026-01-09,Cocomelon,0,1,0
-74,2026-01-10,Strawberry,0,1,0
-75,2026-01-10,Shane Marty,1,0,0
-76,2026-01-10,Fed Powell,0,1,0
-77,2026-01-12,David Jackiechan,0,1,0
-78,2026-01-12,Alicia Wonderland,1,0,0
-79,2026-01-13,Santa Claus,1,0,0
-80,2026-01-14,David Jackiechan,0,1,0
-81,2026-01-14,Alicia Wonderland,0,1,0
-82,2026-01-14,Cocomelon,0,1,0
-83,2026-01-14,Noriflakes,0,1,0
-84,2026-01-15,Alicia Wonderland,1,0,0
-85,2026-01-16,Patrick Star,0,1,0
-86,2026-01-17,Santa Claus,0,1,0
-87,2026-01-18,Fed Powell,0,1,0
-88,2026-01-19,Colt Sailormoon,0,1,0
-89,2026-01-20,Harris Methodist,1,0,0
-90,2026-01-21,Mountains,0,1,0
-91,2026-01-22,Alicia Wonderland,1,0,0
-92,2026-01-27,Alma Mater,1,0,0
-93,2026-01-27,Kayla Munich,0,0,1
-94,2026-01-29,Sam Lively,0,1,0
-95,2026-01-29,Professor Xavier ,0,0,1
-96,2026-01-30,Shane Marty,0,1,0
-97,2026-01-30,Fed Powell,0,1,0
-98,2026-01-30,Kayla Munich,0,0,1
-99,2026-01-30,Patrick Star,0,1,0
-100,2026-01-31,Alicia Wonderland,1,0,0
-101,2026-01-31,Nayr Millerlite,0,0,1
-102,2026-01-31,Air Lemur,0,1,0
-103,2026-02-02,Alicia Wonderland,0,1,0
-104,2026-02-02,Mike Mentzer,1,0,0
-105,2026-02-03,Jaime Oliveoil,0,0,1
-106,2026-02-04,Captain Sully,0,0,1
-107,2026-02-04,Air Lemur,0,1,0
-108,2026-02-04,Patrick Star,0,1,0
-109,2026-02-04,Beef Jenkins,0,1,0
-110,2026-02-05,Captain Sully,0,0,1
-111,2026-02-05,Strawberry,0,1,0
-112,2026-02-05,Vladimir ,0,0,1
-113,2026-02-05,Patrick Star,0,1,0
-114,2026-02-05,Kay Munich,0,0,1
-115,2026-02-06,Kayla Munich,0,1,0
-116,2026-02-06,Jelly Bong,0,0,1
-117,2026-02-07,Instructor,0,1,0
-118,2026-02-07,Thomas Mooo,0,1,0
-119,2026-02-09,Jaime Oliveoil,1,0,0
-120,2026-02-09,Sam Lively,0,0,1
-121,2026-02-09,David Jackiechan,0,1,0
-122,2026-02-09,K Unwise,1,0,0
-123,2026-02-09,Alicia Wonderland,0,0,1
-124,2026-02-10,Nayr Millerlite,1,0,0
-125,2026-02-10,Alicia Wonderland,0,0,1
-126,2026-02-11,Cocomelon,0,1,0
-127,2026-02-11,Gumseng Lamau,1,0,0
-128,2026-02-11,Mountains,0,1,0
-129,2026-02-12,Alicia Wonderland,0,1,0
-130,2026-02-12,Tim Black,0,0,1
-131,2026-02-12,Colt Sailormoon,0,1,0
-132,2026-02-12,Kayla Munich,1,0,0
-133,2026-02-13,Sherlock Holmes,0,1,0
-134,2026-02-14,Air Lemur,0,1,0
-135,2026-02-14,Patrick Star,1,0,0
-136,2026-02-14,Larry Ellison,0,1,0
-137,2026-02-17,Patrick Star,0,1,0
-138,2026-02-17,K Unwise,0,0,1
-139,2026-02-17,Alicia Wonderland,0,0,1
-140,2026-02-17,Larry Ellison,0,1,0
-141,2026-02-17,Al Rango,0,1,0
-142,2026-02-18,Jaydaughter Gonzilla,0,1,0
-143,2026-02-18,Cocomelon,0,1,0
-144,2026-02-18,Jar Knorr,0,1,0
-145,2026-02-19,Vladimir ,0,1,0
-146,2026-02-19,Air Lemur,0,1,0
-147,2026-02-20,Nuke,0,1,0
-148,2026-02-20,Sherlock Holmes,0,1,0
-149,2026-02-21,Nuke,0,1,0
-150,2026-02-21,Sherlock Holmes,0,1,0
-151,2026-02-22,Tim Black,0,1,0
-152,2026-02-23,Cocomelon,0,1,0
-153,2026-02-24,K Unwise,0,1,0
-154,2026-02-24,Kay Munich,0,0,1
-155,2026-02-24,Joe Plumber,1,0,0
-156,2026-02-25,Strawberry,0,1,0
-157,2026-02-25,Captain Sully,0,0,1
-158,2026-02-25,Juan Strickwater,1,0,0
-159,2026-02-25,Colt Sailormoon,0,0,1
-160,2026-02-25,Sherlock Holmes,0,1,0
-161,2026-02-26,Al Rango,0,1,0
-162,2026-02-26,Joe Plumber,1,0,0
-163,2026-02-27,Jelly Bong,0,1,0
-164,2026-02-27,Fed Powell,0,1,0
-165,2026-02-28,Nuke,0,1,0
-166,2026-02-28,Karatekid Lion,0,1,0
-167,2026-02-28,Mountains,1,0,0
-168,2026-02-28,K Unwise,0,1,0
-169,2026-03-01,Beef Jenkins,1,0,0
-170,2026-03-01,Instructor,0,1,0
-171,2026-03-01,Jaime Oliveoil,1,0,0
-172,2026-03-03,Cocomelon,0,1,0
-173,2026-03-03,Patrick Star,1,0,0
-174,2026-03-04,Joshua Boomer,1,0,0
-175,2026-03-04,Alex Square,1,0,0
-176,2026-03-04,Rennala,0,0,1
-177,2026-03-05,Strawberry,0,1,0
-178,2026-03-05,Patrick Star,0,1,0
-179,2026-03-06,Alicia Wonderland,0,1,0
-180,2026-03-06,Sam Lively,0,1,0
-181,2026-03-07,Jaydaughter Gonzilla,0,1,0
-182,2026-03-07,Alicia Wonderland,0,1,0
-183,2026-03-07,Hide and Seek,1,0,0
-184,2026-03-08,Cocomelon,0,1,0
-185,2026-03-08,Fed Powell,0,0,1
-186,2026-03-08,Shoes,0,1,0
-187,2026-03-08,Mike Mentzer,1,0,0
-188,2026-03-08,Alma Mater,0,0,1
-189,2026-03-08,Jaime Oliveoil,1,0,0
-190,2026-03-10,David Jackiechan,0,1,0
-191,2026-03-10,Hide and Seek,0,1,0
-192,2026-03-11,Jaime Oliveoil,0,0,1
-193,2026-03-11,Cocomelon,0,1,0
-194,2026-03-11,Professor Xavier,0,1,0
-195,2026-03-11,Alicia Wonderland,0,1,0
-196,2026-03-11,Colt Sailormoon,0,0,1
+id,request_date,requester,swap_shift,cover_shift,took_shift
+1,12/6/25,Cocomelon,0,1,0
+2,12/6/25,Strawberry,0,1,0
+3,12/6/25,Jelly Bong,0,1,0
+4,12/6/25,Dung,0,1,0
+5,12/7/25,Fed Powell,0,1,0
+6,12/7/25,Gumseng Lamau,1,0,0
+7,12/7/25,Patrick Star,0,1,0
+8,12/8/25,Nuke,0,1,0
+9,12/9/25,Emperor Kuzco,0,1,0
+10,12/10/25,Kyle Muggle,0,1,0
+11,12/12/25,Favorite Student,1,0,0
+12,12/12/25,Shane Marty,1,0,0
+13,12/12/25,Sherlock Holmes,0,1,0
+14,12/13/25,Alice in Wonderland,0,1,0
+15,12/15/25,Alice in Wonderland,1,0,0
+16,12/15/25,Patrick Star,1,0,0
+17,12/16/25,Cocomelon,0,1,0
+18,12/16/25,Alice in Wonderland,1,0,0
+19,12/16/25,Cocomelon,0,1,0
+20,12/17/25,Will Stonks,1,0,0
+21,12/18/25,Alice in Wonderland,0,1,0
+22,12/19/25,Lex Luthor,0,1,0
+23,12/20/25,Mike Mentzer,1,0,0
+24,12/20/25,Lex Luthor,0,1,0
+25,12/22/25,David Jackiechan,0,1,0
+26,12/22/25,Mike Mentzer,1,0,0
+27,12/22/25,Lex Luthor,1,0,0
+28,12/23/25,Patrick Star,1,0,0
+29,12/23/25,David Jackiechan,0,1,0
+30,12/23/25,Amber Stone,0,0,1
+31,12/24/25,Santa Claus,0,0,1
+32,12/24/25,Cocomelon,0,1,0
+33,12/26/25,Jelly Bong,1,0,0
+34,12/27/25,Sherlock Holmes,0,1,0
+35,12/27/25,Mountains,0,1,0
+36,12/28/25,Alice in Wonderland,1,0,0
+37,12/28/25,David Jackiechan,0,1,0
+38,12/28/25,Jaime Oliveoil,0,0,1
+39,12/29/25,David Jackiechan,0,1,0
+40,12/29/25,K Unwise,0,0,1
+41,12/29/25,Albrrrrr,0,1,0
+42,12/29/25,Blake Lively,0,1,0
+43,12/29/25,Larry Ellison,0,1,0
+44,12/30/25,Jaime Oliveoil,0,0,1
+45,12/30/25,Copenhagen,0,1,0
+46,12/30/25,Larry Ellison,0,1,0
+47,12/31/25,Cocomelon,0,1,0
+48,12/31/25,Strawberry,0,1,0
+49,12/31/25,Mountains,0,1,0
+50,12/31/25,Kyle Muggle,0,1,0
+51,1/2/26,Strawberry,0,1,0
+52,1/2/26,Cocomelon,0,1,0
+53,1/4/26,Fed Powell,0,1,0
+54,1/4/26,David Jackiechan,0,1,0
+55,1/4/26,Jaime Oliveoil,0,0,1
+56,1/4/26,Blake Lively,0,1,0
+57,1/5/26,Alice in Wonderland,1,0,0
+58,1/5/26,David Jackiechan,1,0,0
+59,1/5/26,Larry Ellison,1,0,0
+60,1/5/26,Sam Lively,0,0,1
+61,1/5/26,Patrick Star,1,0,0
+62,1/6/26,Larry Ellison,1,0,0
+63,1/6/26,Alice in Wonderland,1,0,0
+64,1/7/26,Zuck Gibbs,0,1,0
+65,1/7/26,Larry Ellison,1,0,0
+66,1/8/26,Sailormoon,0,1,0
+67,1/8/26,Larry Ellison,1,0,0
+68,1/8/26,K Unwise,0,0,1
+69,1/8/26,Alice in Wonderland,1,0,0
+70,1/9/26,Shane Marty,0,1,0
+71,1/9/26,Larry Ellison,1,0,0
+72,1/9/26,Kay Munich,1,0,0
+73,1/9/26,Cocomelon,0,1,0
+74,1/10/26,Strawberry,0,1,0
+75,1/10/26,Shane Marty,1,0,0
+76,1/10/26,Fed Powell,0,1,0
+77,1/12/26,David Jackiechan,0,1,0
+78,1/12/26,Alice in Wonderland,1,0,0
+79,1/13/26,Santa Claus,1,0,0
+80,1/14/26,David Jackiechan,0,1,0
+81,1/14/26,Alice in Wonderland,0,1,0
+82,1/14/26,Cocomelon,0,1,0
+83,1/14/26,Noriflakes,0,1,0
+84,1/15/26,Alice in Wonderland,1,0,0
+85,1/16/26,Patrick Star,0,1,0
+86,1/17/26,Santa Claus,0,1,0
+87,1/18/26,Fed Powell,0,1,0
+88,1/19/26,Sailormoon,0,1,0
+89,1/20/26,Harris Methodist,1,0,0
+90,1/21/26,Mountains,0,1,0
+91,1/22/26,Alice in Wonderland,1,0,0
+92,1/27/26,Alma Mater,1,0,0
+93,1/27/26,Kayla Munich,0,0,1
+94,1/29/26,Sam Lively,0,1,0
+95,1/29/26,Professor Xavier ,0,0,1
+96,1/30/26,Shane Marty,0,1,0
+97,1/30/26,Fed Powell,0,1,0
+98,1/30/26,Kayla Munich,0,0,1
+99,1/30/26,Patrick Star,0,1,0
+100,1/31/26,Alice in Wonderland,1,0,0
+101,1/31/26,Nayr Millerlite,0,0,1
+102,1/31/26,Air Lemur,0,1,0
+103,2/2/26,Alice in Wonderland,0,1,0
+104,2/2/26,Mike Mentzer,1,0,0
+105,2/3/26,Jaime Oliveoil,0,0,1
+106,2/4/26,Captain Sully,0,0,1
+107,2/4/26,Air Lemur,0,1,0
+108,2/4/26,Patrick Star,0,1,0
+109,2/4/26,Beef Jenkins,0,1,0
+110,2/5/26,Captain Sully,0,0,1
+111,2/5/26,Strawberry,0,1,0
+112,2/5/26,Vladimir ,0,0,1
+113,2/5/26,Patrick Star,0,1,0
+114,2/5/26,Kay Munich,0,0,1
+115,2/6/26,Kayla Munich,0,1,0
+116,2/6/26,Jelly Bong,0,0,1
+117,2/7/26,Instructor,0,1,0
+118,2/7/26,Thomas Mooo,0,1,0
+119,2/9/26,Jaime Oliveoil,1,0,0
+120,2/9/26,Sam Lively,0,0,1
+121,2/9/26,David Jackiechan,0,1,0
+122,2/9/26,K Unwise,1,0,0
+123,2/9/26,Alice in Wonderland,0,0,1
+124,2/10/26,Nayr Millerlite,1,0,0
+125,2/10/26,Alice in Wonderland,0,0,1
+126,2/11/26,Cocomelon,0,1,0
+127,2/11/26,Gumseng Lamau,1,0,0
+128,2/11/26,Mountains,0,1,0
+129,2/12/26,Alice in Wonderland,0,1,0
+130,2/12/26,Tim Black,0,0,1
+131,2/12/26,Sailormoon,0,1,0
+132,2/12/26,Kayla Munich,1,0,0
+133,2/13/26,Sherlock Holmes,0,1,0
+134,2/14/26,Air Lemur,0,1,0
+135,2/14/26,Patrick Star,1,0,0
+136,2/14/26,Larry Ellison,0,1,0
+137,2/17/26,Patrick Star,0,1,0
+138,2/17/26,K Unwise,0,0,1
+139,2/17/26,Alice in Wonderland,0,0,1
+140,2/17/26,Larry Ellison,0,1,0
+141,2/17/26,Al Rango,0,1,0
+142,2/18/26,Jaydaughter Gonzilla,0,1,0
+143,2/18/26,Cocomelon,0,1,0
+144,2/18/26,Jar Knorr,0,1,0
+145,2/19/26,Vladimir ,0,1,0
+146,2/19/26,Air Lemur,0,1,0
+147,2/20/26,Nuke,0,1,0
+148,2/20/26,Sherlock Holmes,0,1,0
+149,2/21/26,Nuke,0,1,0
+150,2/21/26,Sherlock Holmes,0,1,0
+151,2/22/26,Tim Black,0,1,0
+152,2/23/26,Cocomelon,0,1,0
+153,2/24/26,K Unwise,0,1,0
+154,2/24/26,Kay Munich,0,0,1
+155,2/24/26,Joe Plumber,1,0,0
+156,2/25/26,Strawberry,0,1,0
+157,2/25/26,Captain Sully,0,0,1
+158,2/25/26,Juan Strickwater,1,0,0
+159,2/25/26,Sailormoon,0,0,1
+160,2/25/26,Sherlock Holmes,0,1,0
+161,2/26/26,Al Rango,0,1,0
+162,2/26/26,Joe Plumber,1,0,0
+163,2/27/26,Jelly Bong,0,1,0
+164,2/27/26,Fed Powell,0,1,0
+165,2/28/26,Nuke,0,1,0
+166,2/28/26,Karatekid Lion,0,1,0
+167,2/28/26,Mountains,1,0,0
+168,2/28/26,K Unwise,0,1,0
+169,3/1/26,Beef Jenkins,1,0,0
+170,3/1/26,Instructor,0,1,0
+171,3/1/26,Jaime Oliveoil,1,0,0
+172,3/3/26,Cocomelon,0,1,0
+173,3/3/26,Patrick Star,1,0,0
+174,3/4/26,Joshua Boomer,1,0,0
+175,3/4/26,Spalding,1,0,0
+176,3/4/26,Rennala,0,0,1
+177,3/5/26,Strawberry,0,1,0
+178,3/5/26,Patrick Star,0,1,0
+179,3/6/26,Alice in Wonderland,0,1,0
+180,3/6/26,Sam Lively,0,1,0
+181,3/7/26,Jaydaughter Gonzilla,0,1,0
+182,3/7/26,Alice in Wonderland,0,1,0
+183,3/7/26,Hide and Seek,1,0,0
+184,3/8/26,Cocomelon,0,1,0
+185,3/8/26,Fed Powell,0,0,1
+186,3/8/26,Shoes,0,1,0
+187,3/8/26,Mike Mentzer,1,0,0
+188,3/8/26,Alma Mater,0,0,1
+189,3/8/26,Jaime Oliveoil,1,0,0
+190,3/10/26,David Jackiechan,0,1,0
+191,3/10/26,Hide and Seek,0,1,0
+192,3/11/26,Jaime Oliveoil,0,0,1
+193,3/11/26,Cocomelon,0,1,0
+194,3/11/26,Professor Xavier,0,1,0
+195,3/11/26,Alice in Wonderland,0,1,0
+196,3/11/26,Sailormoon,0,0,1
+198,3/12/26,Patrick Star,0,1,0
+199,3/12/26,Sherlock Holmes,0,1,0
+200,3/13/26,Fed Powell,0,1,0
+201,3/13/26,Mountains,0,1,0
+202,3/13/26,Jelly Bong,0,1,0
+203,3/14/26,Shoes,0,1,0
+204,3/14/26,Garden of Eden,0,1,0
+205,3/14/26,Larry Ellison,0,1,0
+206,3/14/26,Joe Plumber,0,0,1
+207,3/15/26,Cocomelon,0,1,0
+208,3/15/26,Fed Powell,0,1,0
+209,3/15/26,Jelly Bong,0,1,0
+210,3/15/26,Hide and Seek,0,0,1
+211,3/15/26,David Jackiechan,1,0,0
+212,3/16/26,K Unwise,0,1,0
+213,3/16/26,Capitan S,0,1,0
+214,3/16/26,Rennala,1,0,0
+215,3/16/26,Garden of Eden,1,0,0
+216,3/17/26,Hide and Seek,0,0,1
+217,3/17/26,Nuke,0,1,0
+218,3/17/26,Capitan S,0,1,0
+219,3/18/26,Rennala,0,1,0
+220,3/18/26,Sum Sum,0,1,0
+221,3/19/26,Strawberry,0,1,0
+222,3/19/26,Sailormoon,0,1,0
+223,3/19/26,Spalding,0,1,0
+224,3/20/26,Spalding,0,1,0
+225,3/20/26,Rennala,0,1,0
+226,3/20/26,Mike Mentzer,1,0,0
+227,3/20/26,David Jackiechan,1,0,0
+228,3/21/26,Jaydaughter Gonzilla,0,1,0
+229,3/21/26,Strawberr,0,1,0
+230,3/21/26,Rennala,0,1,0
+231,3/21/26,Nuke,0,1,0
+232,3/21/26,David Jackiechan,1,0,0
+233,3/21/26,Kay Munich,0,1,0
+234,3/21/26,Hide and Seek,1,0,0
+235,3/22/26,Spalding,0,1,0
+236,3/22/26,Shoes,0,1,0
+237,3/22/26,Jelly Bong,0,1,0
+238,3/22/26,David Jackiechan,1,0,0
+239,3/22/26,Mike Mentzer,1,0,0
+240,3/23/26,David Jackiechan,0,1,0
+241,3/23/26,Kay Munich,0,1,0
+242,3/23/26,Sum Sum,0,1,0
+243,3/24/26,Patrick Star,0,1,0
+244,3/24/26,Favorite Student,0,0,1
+245,3/24/26,David Jackiechan,0,1,0
+246,3/24/26,Nuke,0,1,0
+247,3/24/26,Cocomelon,0,1,0
+248,3/24/26,Capitan S,0,1,0
+249,3/24/26,Alice in Wonderland,1,0,0
+250,3/24/26,David Jackiechan,0,1,0
+251,3/25/26,Favorite Student,1,0,0
+252,3/25/26,Strawberr,0,1,0
+253,3/25/26,K Unwise,0,1,0
+254,3/25/26,Hide and Seek,1,0,0
+255,3/25/26,Mike Mentzer,1,0,0
+256,3/26/26,Tim Black,0,1,0
+257,3/26/26,Larry Ellison,0,1,0
+258,3/26/26,Joe Plumber,0,0,1
+259,3/26/26,Rennala,0,1,0
+260,3/26/26,David Jackiechan,1,0,0
+261,3/26/26,Patrick Star,0,1,0
+262,3/26/26,Shane Marty,1,0,0
