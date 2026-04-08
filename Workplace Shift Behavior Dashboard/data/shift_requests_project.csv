@@ -1,4 +1,4 @@
-id,request_date,requester,swap_shift,cover_shift,took_shift
+﻿id,request_date,requester,swap_shift,cover_shift,took_shift
 1,12/6/25,Cocomelon,0,1,0
 2,12/6/25,Strawberry,0,1,0
 3,12/6/25,Jelly Bong,0,1,0
@@ -226,7 +226,7 @@ id,request_date,requester,swap_shift,cover_shift,took_shift
 226,3/20/26,Mike Mentzer,1,0,0
 227,3/20/26,David Jackiechan,1,0,0
 228,3/21/26,Jaydaughter Gonzilla,0,1,0
-229,3/21/26,Strawberr,0,1,0
+229,3/21/26,Strawberry,0,1,0
 230,3/21/26,Rennala,0,1,0
 231,3/21/26,Nuke,0,1,0
 232,3/21/26,David Jackiechan,1,0,0
@@ -249,7 +249,7 @@ id,request_date,requester,swap_shift,cover_shift,took_shift
 249,3/24/26,Alice in Wonderland,1,0,0
 250,3/24/26,David Jackiechan,0,1,0
 251,3/25/26,Favorite Student,1,0,0
-252,3/25/26,Strawberr,0,1,0
+252,3/25/26,Strawberry,0,1,0
 253,3/25/26,K Unwise,0,1,0
 254,3/25/26,Hide and Seek,1,0,0
 255,3/25/26,Mike Mentzer,1,0,0
@@ -260,3 +260,36 @@ id,request_date,requester,swap_shift,cover_shift,took_shift
 260,3/26/26,David Jackiechan,1,0,0
 261,3/26/26,Patrick Star,0,1,0
 262,3/26/26,Shane Marty,1,0,0
+,3/27/26,Alice in Wonderland,1,0,0
+,3/27/26,Jelly Bong,1,0,0
+,3/27/26,Soul King,0,1,0
+,3/27/26,Fed Powell,0,1,0
+,3/27/26,Spalding,1,0,0
+,3/27/26,Jaime Oliveoil,1,0,0
+,3/28/26,Strawberry,0,1,0
+,3/28/26,Nuke,0,1,0
+,3/28/26,Karatekid Lion,0,1,0
+,3/28/26,Fed Powell,0,1,0
+,3/29/26,Alexandria Ocasio Cortez,0,1,0
+,3/29/26,K Unwise,0,1,0
+,3/29/26,Jelly Bong,1,0,0
+,3/30/26,Cocomelon,0,1,0
+,3/30/26,Thomas Mooo,0,1,0
+,3/30/26,Alma Mater,1,0,0
+,3/30/26,Instructor,1,0,0
+,3/30/26,Hide and Seek,1,0,0
+,3/31/26,Cocomelon,0,1,0
+,3/31/26,Patrick Star,0,1,0
+,3/31/26,Sam Lively,0,1,0
+,4/1/26,Favorite Student,0,0,1
+,4/2/26,Sailormoon,0,1,0
+,4/2/26,Nuke,0,1,0
+,4/3/26,Patrick Star,0,1,0
+,4/5/26,Blood Devil,1,0,0
+,4/5/26,Jelly Bong,1,0,0
+,4/5/26,Joe Plumber,1,0,0
+,4/6/26,Sailormoon,0,1,0
+,4/6/26,Jaime Oliveoil,0,0,1
+,4/7/26,Patrick Star,0,1,0
+,4/7/26,Soul King,0,1,0
+,4/7/26,Joe Plumber,0,1,0
